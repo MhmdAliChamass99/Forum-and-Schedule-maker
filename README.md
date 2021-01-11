@@ -1,3 +1,27 @@
+# ScreenShot
+<h3>Home page<h3>
+<a href="https://postimg.cc/9zdkXXxV" target="_blank"><img src="https://i.postimg.cc/9XKHprZ4/Screenshot-31.png" alt="Screenshot-31"/></a><br/><br/>
+<a href="https://postimg.cc/6y1ggjjG" target="_blank"><img src="https://i.postimg.cc/dVqF7gGn/Screenshot-32.png" alt="Screenshot-32"/></a><br/><br/>
+<a href="https://postimg.cc/V0f2Q3PX" target="_blank"><img src="https://i.postimg.cc/7h047kBt/Screenshot-33.png" alt="Screenshot-33"/></a><br/><br/>
+<h3>Log in</h3>
+<a href="https://postimg.cc/XZB2RnZR" target="_blank"><img src="https://i.postimg.cc/W4XQJ3s1/Screenshot-34.png" alt="Screenshot-34"/></a><br/><br/>
+<h3>Register  !!must be valid UA account "@ua.edu.lb" and verification sent to email </h3>
+<a href="https://postimg.cc/21gpbcnf" target="_blank"><img src="https://i.postimg.cc/mrgTnKDh/Screenshot-42.png" alt="Screenshot-42"/></a><br/><br/>
+    <h3>Home page contains joined groups</h3>
+<a href="https://postimg.cc/1ncbdy29" target="_blank"><img src="https://i.postimg.cc/PxBhPxM8/Screenshot-35.png" alt="Screenshot-35"/></a><br/><br/>
+        <h3>Search for a group and ask to join it and email will be sent to the admins of group to let you join</h3>
+<a href="https://postimg.cc/kB1P9X4G" target="_blank"><img src="https://i.postimg.cc/JzmrNsCN/Screenshot-41.png" alt="Screenshot-41"/></a><br/><br/>
+    <h3>Profile page can upload profile picture and edit profile</h3>
+<a href="https://postimg.cc/sQpT2K4K" target="_blank"><img src="https://i.postimg.cc/hjY6p5zF/Screenshot-36.png" alt="Screenshot-36"/></a><br/><br/>
+    <h3>Inside a group user can create/like a post also can add a comment</h3>
+<a href="https://postimg.cc/K4x6Mg34" target="_blank"><img src="https://i.postimg.cc/RCH427M1/Screenshot-37.png" alt="Screenshot-37"/></a><br/><br/>
+    <h3>a post can be text or image or both of them</h3>
+<a href="https://postimg.cc/rzTkNP3V" target="_blank"><img src="https://i.postimg.cc/QN9dhLqT/Screenshot-38.png" alt="Screenshot-38"/></a><br/><br/>
+    <h3>Schedule maker is designed for UA students to help them choose a schedule first you choose the wanted courses and add additional options and the website will create all schedule combinations and preview all schedule formed and when you find the desired schedule you can either download it as pdf or send it by email</h3>
+<a href="https://postimg.cc/S20ZqHCJ" target="_blank"><img src="https://i.postimg.cc/Tw1Bj6Pq/Screenshot-39.png" alt="Screenshot-39"/></a><br/><br/>
+<a href="https://postimg.cc/CzLpWfw9" target="_blank"><img src="https://i.postimg.cc/ncqV9vgV/Screenshot-40.png" alt="Screenshot-40"/></a><br/><br/>
+
+
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
